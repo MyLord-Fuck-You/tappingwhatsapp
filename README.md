@@ -1,8 +1,8 @@
 # tappingwhatsapp
 # Work2019
 
-pkg update && pkg upgrade
-pkg install php
-pip2 install lolcat
-pkg install git
-git clone
+# pkg update && pkg upgrade
+# pkg install php
+# pip2 install lolcat
+# pkg install git
+# git clone
