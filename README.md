@@ -6,3 +6,4 @@
 # pip2 install lolcat
 # pkg install git
 # git clone https://github.com/MyLord-Fuck-You/tappingwhatsapp
+# cd SadapWaTerbaru2019.sh
