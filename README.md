@@ -5,4 +5,4 @@
 # pkg install php
 # pip2 install lolcat
 # pkg install git
-# git clone
+# git clone https://github.com/MyLord-Fuck-You/tappingwhatsapp
