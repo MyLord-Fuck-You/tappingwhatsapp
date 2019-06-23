@@ -126,7 +126,7 @@ $blue [|]__________________________________[|]
 KATNA SAYA TAU GANS ITU GA DI BAWA MATI
 -Z3X
 ";
-echo "$lightpurple MASUK KRDALAM PROGRAM HEHE $$lightgreen";
+echo "$lightpurple MASUK KEDALAM PROGRAM SADAP WA TERBARU KAMI (y) $$lightgreen";
         echo ".";
         sleep(1);
         echo ".";
